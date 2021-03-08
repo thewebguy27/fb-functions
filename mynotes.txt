@@ -1,0 +1,12 @@
+->Make a firebase project
+->Make a web app to attach with it
+->Make db in firestore
+->install firebase tools
+->make project and in project do firebase init  and add configurations
+Functions::
+2 types:-
+  1:HTTP Request
+    In this we return response
+    It takes response and request
+  2:Callable
+    We just simply return and we invoke it from our frontend it takes context and data
